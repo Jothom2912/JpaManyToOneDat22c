@@ -22,7 +22,7 @@ public class KommuneRestController
         return apiServiceKommuner.getKommuner();
     }
 
-    @GetMapping("/Kommuner")
+
 
 
 }
